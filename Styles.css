@@ -1,0 +1,25 @@
+body{
+    font-family: TheLaMonTruSH;
+    color: crimson;
+    margin:0;
+    padding: 0;
+    background-image: url("Muscles\ Cars\ 01.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 100vh;
+}
+
+#gameboard{
+    width: 80%;
+    height: 80vh;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+
+
+
